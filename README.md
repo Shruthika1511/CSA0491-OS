@@ -4,3 +4,7 @@
 ![BANKERS ALGORITHM](https://user-images.githubusercontent.com/112743361/213907118-3a2d472c-af14-4660-98c4-ef5675a18ea3.png)
 ![SJF CPU SCHEDULING](https://user-images.githubusercontent.com/112743361/213907126-3557b905-15e0-4f0b-bd39-36c82d39f49f.png)
 ![SYSTEMCALL COPY FILE](https://user-images.githubusercontent.com/112743361/213907128-6f358911-889c-4abe-a3ab-0de2c7cc0176.png)
+![FIRST FIT](https://user-images.githubusercontent.com/112743361/213907343-96215cbe-102b-44df-bb59-fe5963618bd6.png)
+![BEST FIT](https://user-images.githubusercontent.com/112743361/213907347-3d768f9e-50c4-4a9a-9899-0f11eebed51f.png)
+![WORST FIT](https://user-images.githubusercontent.com/112743361/213907349-5150acf2-8b54-419b-94f4-5cd8c5861b99.png)
+![ROUND ROBIN](https://user-images.githubusercontent.com/112743361/213907350-f8204bf2-0eae-4901-8141-88c31791b9e0.png)
